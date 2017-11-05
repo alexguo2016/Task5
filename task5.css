@@ -51,7 +51,7 @@ footer{
     color:#fff;flex:1;border-radius: 1rem;
 }
 
-main{position: absolute;top:7rem;bottom:-10rem;width:100%;}
+main{position: absolute;top:7rem;bottom:-20rem;width:100%;}
 
 li{display: flex;height:auto;font-size:2rem;
     border-bottom: 0.1rem solid #cccccc;
