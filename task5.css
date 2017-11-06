@@ -3,7 +3,7 @@
     padding:0;
 }
 html{
-    font-size:50%;
+    font-size:62.5%;
 }
 .contrainer{
     width:100%;
@@ -114,7 +114,7 @@ ul,li{
 .with-site{
     clear:both;
     background:url("site.png") left no-repeat;
-    background-size:10%;
+    background-size:1rem;
     padding-left:2rem;
     margin-top:1rem;
 }
